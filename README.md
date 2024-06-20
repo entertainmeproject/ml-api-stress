@@ -1,4 +1,4 @@
-# Capstone Travel/Tour ML API
+# Capstone Stress Predictiin ML API
 This is a repository containing the deployment of the machine learning model used by the backend API. The model runs in Python and is deployed using a Flask web server listening on port 5000.
 
 
